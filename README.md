@@ -42,7 +42,8 @@
 
 
 # Screenshots   🖼️
-
+![Screenshot from 2025-04-04 12-49-03](https://github.com/user-attachments/assets/3e5c4d52-991a-4dce-ab16-6e085bc2e8d9)
+![Screenshot from 2025-04-04 12-49-18](https://github.com/user-attachments/assets/73422400-57d0-4a0c-a8ba-561213d3f3ed)
 
 
 

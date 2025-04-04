@@ -1,3 +1,51 @@
+# Welcome Sentura Task👋
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1100&height=70&duration=4000&lines=Sentura+Task+&color=078179" />
+</h1>
+
+## 🌟 Technologies Used
+
+- **TypeScript** - Primary programming language
+- **React** - Framework for building web applications 
+- **Vite** - Environment for developing React applications
+
+
+## 🚀 Get Started
+
+## How to setup the Frontend Project 📍
+
+1. create package.json:
+   ```sh
+   npm init
+   ```
+2. Create tsconfig.js:
+   ```sh
+   tsc --init
+   ```
+
+3. Install @types/node:
+   ```sh
+   npm i --save-dev @types/node
+   ```
+
+4. Create react app using vite environment:
+   ```sh
+   npm create vite@latest 
+   ```
+
+6. Run the project:
+   ```sh
+   npm run dev
+   ```
+
+
+
+# Screenshots   🖼️
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -52,3 +100,5 @@ export default tseslint.config({
   },
 })
 ```
+
+

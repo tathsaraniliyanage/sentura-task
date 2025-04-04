@@ -75,7 +75,7 @@ const UserPage: React.FC = () => {
           }
         });
         
-        // The API likely returns an array directly, not wrapped in a data property
+        
         const usersData: userRespons= res.data;
         const temUser:User[]=[]
 
@@ -134,7 +134,7 @@ const UserPage: React.FC = () => {
         </form>
       )}
 
-      {/* Table */}
+
       <div className="overflow-x-auto bg-white rounded shadow-md">
         <table className="min-w-full table-auto">
           <thead className="bg-gray-200">
